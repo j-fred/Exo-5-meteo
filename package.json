@@ -1,0 +1,23 @@
+{
+  "name": "exo-5-meteo",
+  "version": "1.0.0",
+  "description": "Utilisation d'une API météo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-fred/Exo-5-meteo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-fred/Exo-5-meteo/issues"
+  },
+  "homepage": "https://github.com/j-fred/Exo-5-meteo#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
