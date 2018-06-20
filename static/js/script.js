@@ -20,7 +20,6 @@ $(function () {
                 html = `
                     <div class="col-sm-6 my-3">
                     <div class="card">
-                        <div class="card-header">${cityName}</div>
                         <div class="card-body">
                         <img src="http://openweathermap.org/img/w/${Icon}.png" alt="${cityName}">
                         <h2 class="card-text">${cityTemp}°C </h2>
